@@ -75,7 +75,7 @@
 /* home section styling */
 .home{
     display: flex;
-    background-image: url("../homework2/images/background.jpg");
+    background-image: url("images/background.jpg");
     height: 100vh;
     color:black;
     min-height: 500px;
