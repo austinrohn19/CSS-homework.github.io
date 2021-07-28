@@ -392,6 +392,22 @@ section {
     font-size: 26px;
 }
 
+.contact .contact-content .icons #linkedin {
+    font-size: 15px;
+    font-weight: 500;
+    color: #fff; 
+    background:red;
+    padding: 6px 10px;
+    border-radius: 6px;
+    border: 2px solid red;
+    transition: all 0.3s ease;
+    width: 150px;
+}
+
+.contact .contact-content .icons #linkedin:hover {
+    color:#fff;
+    background: none;
+}
 
 /* responsive media query start */
 @media (max-width: 1335px){
